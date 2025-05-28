@@ -17,14 +17,17 @@ Here are some ideas to get you started:
 
 <!-- Profile README for Vardan Garg -->
 
-<h1 align="center">Hi 👋, I'm Vardan Garg</h1>
-<h3 align="center">🚀 Passionate Problem Solver | 🧠 Lifelong Learner | 💻 Tech Enthusiast </h3>
-<h2 align="center">🗣️Public Speaker | 🎙️Orator | 🤝Negotiator | 🧠Team Manager | 💬Excellent Communicator</h2>
+<h1 align="center"> Hi 👋, I'm Vardan Garg </h1>
+<h2 align="center"> 🚀 Passionate Problem Solver | 🧠 Lifelong Learner | 💻 Tech Enthusiast </h2>
+<h3 align="center"> 🗣️Public Speaker | 🎙️Orator | 🤝Negotiator | 🧑‍💼Manager | 💬Excellent Communicator </h3>
+
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FEEF&center=true&vCenter=true&width=435&lines=ML+Developer+%7C+GenAI+Enthusiast;FastAPI+%2B+React+Builder;Passionate+Communicator+%7C+Team+Leader" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FEEF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Let's+build+something+amazing+🚀;" alt="Typing SVG" />
 </p>
+
+
 
 ---
 
@@ -41,10 +44,9 @@ Here are some ideas to get you started:
 
 ## 💻 Tech Stack
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FEEF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Let's+build+something+amazing+🚀;" alt="Typing SVG" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,html,css,js,react,nodejs,fastapi,sqlite,git,github,vscode,linux" alt="Tech Stack" />
 </p>
-
 ---
 
 ## 🛠️ Tools & Platforms
