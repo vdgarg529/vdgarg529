@@ -18,10 +18,12 @@ Here are some ideas to get you started:
 <!-- Profile README for Vardan Garg -->
 
 <h1 align="center">Hi 👋, I'm Vardan Garg</h1>
-<h3 align="center">🚀 Passionate Problem Solver | 🧠 Lifelong Learner | 💻 Tech Enthusiast | 🗣️**Public Speaker** | 🎙️**Orator** | 🤝**Negotiator** | 🧠**Team Manager** | 💬**Excellent Communicator*</h3>
+<h3 align="center">🚀 Passionate Problem Solver | 🧠 Lifelong Learner | 💻 Tech Enthusiast </h3>
+<h2 align="center">🗣️Public Speaker | 🎙️Orator | 🤝Negotiator | 🧠Team Manager | 💬Excellent Communicator</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FEEF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Let's+build+something+amazing+🚀;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FEEF&center=true&vCenter=true&width=435&lines=ML+Developer+%7C+GenAI+Enthusiast;FastAPI+%2B+React+Builder;Passionate+Communicator+%7C+Team+Leader" alt="Typing SVG" />
+
 </p>
 
 ---
