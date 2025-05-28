@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **vdgarg529/vdgarg529** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- Profile README for Vardan Garg -->
 
 <h1 align="center">Hi 👋, I'm Vardan Garg</h1>
-<h3 align="center">🚀 Passionate Problem Solver | 🧠 Lifelong Learner | 💻 Tech Enthusiast | </h3>
+<h3 align="center">🚀 Passionate Problem Solver | 🧠 Lifelong Learner | 💻 Tech Enthusiast | ML Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FEEF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Let's+build+something+amazing+🚀;" alt="Typing SVG" />
@@ -29,9 +29,10 @@ Here are some ideas to get you started:
 ## 🧑‍💻 About Me
 
 - 💼 Worked at **National Inforamatics Center** | **Magnet Brains** | **Disskover Study Point Pvt. Ltd.**
-- 🌱 Currently learning **AI/ML, DSA**, and **Web Development**
+- 🎓 Education **MTech@IIIT Allahabad** 
+- 🌱 Domain Expertise **AI/ML/DL Developer, GenAI Expert, MARL, DSA, Web Development**
 - 💬 I love to talk about **Tech**, **Productivity**, and **Career Growth**
-- 📫 Reach me at: [vardan.garg@example.com](mailto:vardan.garg@example.com)
+- 📫 Reach me at: [vdgarg529@gmail.com](mailto:vdgarg529@gmail.com)
 - 💡 Fun Fact: I find coding meditative and debugging satisfying!
 
 ---
@@ -39,7 +40,7 @@ Here are some ideas to get you started:
 ## 💻 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,nodejs,fastapi,sqlite,git,github,vscode,linux" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,langchain,huggingface,pytorch,tensorflow,cpp,html,css,js,react,nodejs,fastapi,sqlite,git,github,vscode,linux" alt="Tech Stack" />
 </p>
 
 ---
@@ -48,8 +49,8 @@ Here are some ideas to get you started:
 
 - 💡 **Languages**: Python, C++, JavaScript
 - 🌐 **Frontend**: HTML, CSS, React.js
-- 🧠 **Backend**: Node.js, FastAPI
-- 🗄️ **Database**: SQLite, MongoDB *(optional)*
+- 🧠 **Backend**: Node.js, FastAPI, Flask
+- 🗄️ **Database**: MySQL, SQLite, MongoDB 
 - 🛠️ **Tools**: Git, GitHub, VS Code, Anaconda, Docker
 - ☁️ **Hosting**: Vercel, Hugging Face Spaces
 
